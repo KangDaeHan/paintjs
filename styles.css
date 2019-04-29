@@ -84,3 +84,7 @@ body {
 .controls_btns {
 	margin-top: 50px;
 }
+.controls_btns button {
+	text-transform: uppercase;
+	cursor: pointer;
+}
